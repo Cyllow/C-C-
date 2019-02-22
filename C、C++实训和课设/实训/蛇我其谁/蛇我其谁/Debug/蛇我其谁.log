@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\asus\desktop\蛇我其谁\蛇我其谁\body.h(475): warning C4715: “game::start”: 不是所有的控件路径都返回值
+  蛇我其谁.vcxproj -> C:\Users\ASUS\Desktop\蛇我其谁\Debug\蛇我其谁.exe
+  蛇我其谁.vcxproj -> C:\Users\ASUS\Desktop\蛇我其谁\Debug\蛇我其谁.pdb (Full PDB)

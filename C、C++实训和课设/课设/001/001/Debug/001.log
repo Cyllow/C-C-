@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\asus\desktop\001\001\源.cpp(27): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\asus\desktop\001\001\源.cpp(94): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\asus\desktop\001\001\源.cpp(95): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\asus\desktop\001\001\源.cpp(139): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\asus\desktop\001\001\源.cpp(633): warning C4018: “<”: 有符号/无符号不匹配
+  001.vcxproj -> C:\Users\ASUS\Desktop\001\Debug\001.exe
+  001.vcxproj -> C:\Users\ASUS\Desktop\001\Debug\001.pdb (Full PDB)

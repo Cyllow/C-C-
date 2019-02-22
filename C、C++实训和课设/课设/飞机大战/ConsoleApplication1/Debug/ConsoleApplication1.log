@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  源.cpp
+c:\users\asus\desktop\我的飞机大战\consoleapplication1\标头.h(53): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\asus\desktop\我的飞机大战\consoleapplication1\标头.h(275): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\asus\desktop\我的飞机大战\consoleapplication1\标头.h(281): warning C4101: “i”: 未引用的局部变量
+c:\users\asus\desktop\我的飞机大战\consoleapplication1\标头.h(504): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> C:\Users\ASUS\Desktop\我的飞机大战\Debug\飞机大战.exe
+  ConsoleApplication1.vcxproj -> C:\Users\ASUS\Desktop\我的飞机大战\Debug\飞机大战.pdb (Full PDB)
